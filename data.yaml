@@ -1,0 +1,5 @@
+train: images/train
+test: images/test
+
+nc: 7  # Number of classes
+names: ["car", "van", "bicycle", "bus", "Motorized2wheleer", "truck", "autorickshaw"]
