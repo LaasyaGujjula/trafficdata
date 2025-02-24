@@ -1,5 +1,5 @@
-train: /content/trafficdata/images/train
-val: /content/trafficdata/images/test
+train: /content/trafficdata/images/test
+val: /content/trafficdata/images/train
 
 nc: 7  # Number of classes
 names: ["car", "van", "bicycle", "bus", "Motorized2wheleer", "truck", "autorickshaw"]
